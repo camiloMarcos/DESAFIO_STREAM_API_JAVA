@@ -1,4 +1,4 @@
-/*  DESAFIO 02 - Imprima a soma dos números pares da lista:
+/*  DESAFIO 02 - Imprima os soma dos números pares da lista:
 
     Utilizando a Stream API, realize a soma dos números pares da lista e exiba o resultado no console */
 
