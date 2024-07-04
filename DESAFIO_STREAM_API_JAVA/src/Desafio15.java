@@ -22,7 +22,7 @@ public class Desafio15 {
 /*  True - existe numero Negativo
     false - não existe.
 
-    .anyMatch() O método que,  em Java, é usado para verificar se pelo menos um elemento de um Stream atende a uma determinada condição. Ele retorna um valor booleano (true ou false) indicando se a condição especificada foi satisfeita por algum dos elementos do Stream.
+    .anyMatch() O método que,  em Java, é usado para verificar SE PELO MENOS UM elemento de um Stream atende a uma determinada condição. Ele retorna um valor booleano (true ou false) indicando se a condição especificada foi satisfeita por algum dos elementos do Stream.
 
     Performance: Em certos casos, especialmente quando se trabalha com Streams de tamanho grande, escolher entre .anyMatch() e .allMatch() pode impactar a performance do seu código. .anyMatch() pode ser mais eficiente se você estiver apenas interessado em verificar SE EXISTE PELO MENOS UM elemento que satisfaça uma condição.
 
