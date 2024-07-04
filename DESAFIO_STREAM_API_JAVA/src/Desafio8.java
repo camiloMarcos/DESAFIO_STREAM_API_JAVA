@@ -21,11 +21,6 @@ public class Desafio8 {
 }
 
 
-
-
-
-
-
 /*  COMENTÁRIOS:
 
 .mapToInt(Integer::intValue) é o método usado para CONVERTER OBJEOS INTEGER EM VALORES INT primitivos em streams em Java, sendo uma operação comum para manipulação eficiente de dados numéricos dentro de streams. onde cada objeto Integer é mapeado para seu valor primitivo int
